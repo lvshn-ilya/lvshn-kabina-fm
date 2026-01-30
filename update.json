@@ -1,0 +1,27 @@
+{
+  "latest": "1.0.0",
+  "download_url": "https://github.com/lvshn-ilya/lvshn-kabina-fm/releases/latest",
+  "packs": [
+    {
+      "id": "electronic",
+      "name": "Electronic Music Pack",
+      "url": "https://raw.githubusercontent.com/lvshn-ilya/lvshn-kabina-fm/main/packs/electronic_pack.json",
+      "unsigned": true,
+      "playlists": [
+        {"id":"witchy","name":"Witchy / Trap / Phonk"},
+        {"id":"darkwave","name":"Darkwave / Industrial"},
+        {"id":"dnb","name":"Drum and Bass / Dubstep"},
+        {"id":"trance","name":"Trance / Progressive"},
+        {"id":"techno","name":"Techno / Hard Techno"},
+        {"id":"house","name":"House / Deep / Disco"},
+        {"id":"breaks","name":"Breaks / Big Beat / Electro"},
+        {"id":"synthwave","name":"Synthwave / Retrowave"},
+        {"id":"ambient","name":"Ambient / Drone / Space"},
+        {"id":"idm","name":"IDM / Glitch / Experimental"},
+        {"id":"hardstyle","name":"Hardstyle / Hardcore"},
+        {"id":"chillout","name":"Chillout / Lounge"},
+        {"id":"lofi","name":"Lo-Fi / Downtempo"}
+      ]
+    }
+  ]
+}
