@@ -6,7 +6,7 @@
       "id": "electronic",
       "name": "Electronic Music Pack",
       "url": "https://raw.githubusercontent.com/lvshn-ilya/lvshn-kabina-fm/main/packs/electronic_pack.json",
-      "unsigned": true,
+      "unsigned": false,
       "playlists": [
         {
           "id": "witchy",
