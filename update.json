@@ -66,7 +66,7 @@
       "id": "indie",
       "name": "Indie / Alternative / Freeform Pack",
       "url": "https://raw.githubusercontent.com/lvshn-ilya/lvshn-kabina-fm/main/packs/indie_pack.json",
-      "unsigned": true,
+      "unsigned": false,
       "playlists": [
         {
           "id": "indie",
