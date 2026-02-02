@@ -1,0 +1,414 @@
+{
+  "playlists": [
+    {
+      "name": "Witchy / Trap / Phonk",
+      "stations": [
+        {
+          "name": "Radio Record Trap",
+          "url": "https://radiorecord.hostingradio.ru/trap96.aacp"
+        },
+        {
+          "name": "Radio Record Phonk",
+          "url": "https://radiorecord.hostingradio.ru/phonk96.aacp"
+        },
+        {
+          "name": "Radio Record Midtempo",
+          "url": "https://radiorecord.hostingradio.ru/mt96.aacp"
+        },
+        {
+          "name": "Phonkwave",
+          "url": "https://stream.laut.fm/phonkwave"
+        },
+        {
+          "name": "Badradio",
+          "url": "https://badradio.nz/stream"
+        }
+      ],
+      "id": "witchy"
+    },
+    {
+      "name": "Darkwave / Industrial",
+      "stations": [
+        {
+          "name": "SomaFM Dark Zone",
+          "url": "https://ice5.somafm.com/darkzone-128-mp3"
+        },
+        {
+          "name": "SomaFM DEF CON",
+          "url": "https://ice5.somafm.com/defcon-128-mp3"
+        }
+      ],
+      "id": "darkwave"
+    },
+    {
+      "name": "Drum and Bass / Dubstep",
+      "stations": [
+        {
+          "name": "Radio Record Darkside",
+          "url": "https://radiorecord.hostingradio.ru/darkside96.aacp"
+        },
+        {
+          "name": "Bassdrive",
+          "url": "https://ice.bassdrive.net/stream32"
+        },
+        {
+          "name": "DNBRadio",
+          "url": "https://dnbradio.nl/dnbradio_main.mp3"
+        },
+        {
+          "name": "Radio Record Liquid Funk",
+          "url": "https://radiorecord.hostingradio.ru/liquidfunk96.aacp"
+        },
+        {
+          "name": "Radio Record Neurofunk",
+          "url": "https://radiorecord.hostingradio.ru/neurofunk96.aacp"
+        },
+        {
+          "name": "Radio Record Jungle",
+          "url": "https://radiorecord.hostingradio.ru/jungle96.aacp"
+        },
+        {
+          "name": "Radio Record Dubstep",
+          "url": "https://radiorecord.hostingradio.ru/dub96.aacp"
+        },
+        {
+          "name": "Sub FM",
+          "url": "https://subfm.radioca.st/SubFMMount"
+        },
+        {
+          "name": "Kool FM",
+          "url": "https://admin.stream.rinse.fm/proxy/kool/stream"
+        }
+      ],
+      "id": "dnb"
+    },
+    {
+      "name": "Trance / Progressive",
+      "stations": [
+        {
+          "name": "TranceBase",
+          "url": "https://listen.trancebase.fm/tunein-mp3"
+        },
+        {
+          "name": "Radio Record Trancemission",
+          "url": "https://radiorecord.hostingradio.ru/tm96.aacp"
+        },
+        {
+          "name": "Radio Record Trance Classics",
+          "url": "https://radiorecord.hostingradio.ru/trancehits96.aacp"
+        },
+        {
+          "name": "Radio Record Trancehouse",
+          "url": "https://radiorecord.hostingradio.ru/trancehouse96.aacp"
+        },
+        {
+          "name": "Radio Record Uplifting",
+          "url": "https://radiorecord.hostingradio.ru/uplift96.aacp"
+        },
+        {
+          "name": "Radio Record Progressive",
+          "url": "https://radiorecord.hostingradio.ru/progr96.aacp"
+        },
+        {
+          "name": "Radio Record GOA/PSY",
+          "url": "https://radiorecord.hostingradio.ru/goa96.aacp"
+        },
+        {
+          "name": "Radio Record A State of Trance",
+          "url": "https://radiorecord.hostingradio.ru/asot64.aacp"
+        },
+        {
+          "name": "Radio Record Tiesto",
+          "url": "https://radiorecord.hostingradio.ru/tiesto96.aacp"
+        },
+        {
+          "name": "SomaFM Suburbs of Goa",
+          "url": "https://ice5.somafm.com/suburbsofgoa-128-mp3"
+        }
+      ],
+      "id": "trance"
+    },
+    {
+      "name": "Techno / Hard Techno",
+      "stations": [
+        {
+          "name": "Radio Record Hypnotic",
+          "url": "https://radiorecord.hostingradio.ru/hypno96.aacp"
+        },
+        {
+          "name": "Radio Record Minimal/Tech",
+          "url": "https://radiorecord.hostingradio.ru/mini96.aacp"
+        },
+        {
+          "name": "Radio Record Techno",
+          "url": "https://radiorecord.hostingradio.ru/techno96.aacp"
+        },
+        {
+          "name": "FluxFM Electronic",
+          "url": "https://streams.fluxfm.de/elecimp/mp3-128/streams.fluxfm.de/"
+        },
+        {
+          "name": "TechnoBase",
+          "url": "https://listen.technobase.fm/tunein-mp3"
+        }
+      ],
+      "id": "techno"
+    },
+    {
+      "name": "House / Deep / Disco",
+      "stations": [
+        {
+          "name": "Radio Record Tech House",
+          "url": "https://radiorecord.hostingradio.ru/techouse96.aacp"
+        },
+        {
+          "name": "HouseTime",
+          "url": "https://listen.housetime.fm/tunein-mp3"
+        },
+        {
+          "name": "Radio Record House Hits",
+          "url": "https://radiorecord.hostingradio.ru/househits96.aacp"
+        },
+        {
+          "name": "Radio Record House Classics",
+          "url": "https://radiorecord.hostingradio.ru/houseclss96.aacp"
+        },
+        {
+          "name": "Radio Record Disco/Funk",
+          "url": "https://radiorecord.hostingradio.ru/discofunk96.aacp"
+        },
+        {
+          "name": "Radio Record Afro House",
+          "url": "https://radiorecord.hostingradio.ru/afro64.aacp"
+        },
+        {
+          "name": "FluxFM Club Sandwich",
+          "url": "https://streams.fluxfm.de/clubsandwich/mp3-128/streams.fluxfm.de/"
+        },
+        {
+          "name": "FluxFM Berlin Beach House",
+          "url": "https://streams.fluxfm.de/bbeachhouse/mp3-128/streams.fluxfm.de/"
+        },
+        {
+          "name": "Radio Record Nu Dance",
+          "url": "https://radiorecord.hostingradio.ru/nudance64.aacp"
+        },
+        {
+          "name": "Radio Record Groove/Tribal",
+          "url": "https://radiorecord.hostingradio.ru/groovetribal96.aacp"
+        },
+        {
+          "name": "SomaFM Fluid",
+          "url": "https://ice5.somafm.com/fluid-128-mp3"
+        },
+        {
+          "name": "Radio Record Lo-Fi House",
+          "url": "https://radiorecord.hostingradio.ru/lofihouse64.aacp"
+        }
+      ],
+      "id": "house"
+    },
+    {
+      "name": "Breaks / Big Beat / Electro",
+      "stations": [
+        {
+          "name": "Radio Record Future Bass",
+          "url": "https://radiorecord.hostingradio.ru/fbass96.aacp"
+        },
+        {
+          "name": "Radio Record UK Garage",
+          "url": "https://radiorecord.hostingradio.ru/ukgarage96.aacp"
+        },
+        {
+          "name": "Hirschmilch Electronic",
+          "url": "http://hirschmilch.de:7500/;stream.mp3"
+        },
+        {
+          "name": "Radio Record Electro",
+          "url": "https://radiorecord.hostingradio.ru/elect96.aacp"
+        },
+        {
+          "name": "Radio Record Lady Waks",
+          "url": "https://radiorecord.hostingradio.ru/ladywaks64.aacp"
+        },
+        {
+          "name": "Radio Record TOP 100 EDM",
+          "url": "https://radiorecord.hostingradio.ru/top100edm96.aacp"
+        },
+        {
+          "name": "Radio Record Future Rave",
+          "url": "https://radiorecord.hostingradio.ru/futurerave96.aacp"
+        },
+        {
+          "name": "Radio Record 2-Step",
+          "url": "https://radiorecord.hostingradio.ru/2step96.aacp"
+        },
+        {
+          "name": "Radio Record Moombahton",
+          "url": "https://radiorecord.hostingradio.ru/mmbt96.aacp"
+        },
+        {
+          "name": "Radio Record EDM Classics",
+          "url": "https://radiorecord.hostingradio.ru/edmhits96.aacp"
+        }
+      ],
+      "id": "breaks"
+    },
+    {
+      "name": "Synthwave / Retrowave",
+      "stations": [
+        {
+          "name": "Radio Record Synthwave",
+          "url": "https://radiorecord.hostingradio.ru/synth96.aacp"
+        },
+        {
+          "name": "Nightwave Plaza",
+          "url": "https://radio.plaza.one/mp3"
+        },
+        {
+          "name": "Nightride FM",
+          "url": "https://stream.nightride.fm/nightride.mp3"
+        },
+        {
+          "name": "Radio Record Technopop",
+          "url": "https://radiorecord.hostingradio.ru/technopop96.aacp"
+        }
+      ],
+      "id": "synthwave"
+    },
+    {
+      "name": "Ambient / Drone / Space",
+      "stations": [
+        {
+          "name": "SomaFM Drone Zone",
+          "url": "https://ice5.somafm.com/dronezone-128-mp3"
+        },
+        {
+          "name": "SomaFM Space Station",
+          "url": "https://ice5.somafm.com/spacestation-128-mp3"
+        },
+        {
+          "name": "Radio Record Ambient",
+          "url": "https://radiorecord.hostingradio.ru/ambient96.aacp"
+        },
+        {
+          "name": "SomaFM Deep Space One",
+          "url": "https://ice5.somafm.com/deepspaceone-128-mp3"
+        },
+        {
+          "name": "SomaFM Sonic Universe",
+          "url": "https://ice5.somafm.com/sonicuniverse-128-mp3"
+        },
+        {
+          "name": "Hirschmilch Ambient",
+          "url": "http://hirschmilch.de:7502/;stream.mp3"
+        }
+      ],
+      "id": "ambient"
+    },
+    {
+      "name": "IDM / Glitch / Experimental",
+      "stations": [
+        {
+          "name": "SomaFM Digitalis",
+          "url": "https://ice5.somafm.com/digitalis-128-mp3"
+        },
+        {
+          "name": "SomaFM Cliqhop",
+          "url": "https://ice5.somafm.com/cliqhop-128-mp3"
+        }
+      ],
+      "id": "idm"
+    },
+    {
+      "name": "Hardstyle / Hardcore",
+      "stations": [
+        {
+          "name": "Radio Record Hard Bass",
+          "url": "https://radiorecord.hostingradio.ru/hbass96.aacp"
+        },
+        {
+          "name": "Radio Record Rave FM",
+          "url": "https://radiorecord.hostingradio.ru/rave96.aacp"
+        },
+        {
+          "name": "HardBase",
+          "url": "https://listen.hardbase.fm/tunein-mp3"
+        },
+        {
+          "name": "CoreTime",
+          "url": "https://listen.coretime.fm/tunein-mp3"
+        },
+        {
+          "name": "Radio Record Hardstyle",
+          "url": "https://radiorecord.hostingradio.ru/teo96.aacp"
+        },
+        {
+          "name": "Radio Record Dancecore",
+          "url": "https://radiorecord.hostingradio.ru/dc96.aacp"
+        }
+      ],
+      "id": "hardstyle"
+    },
+    {
+      "name": "Chillout / Lounge",
+      "stations": [
+        {
+          "name": "Radio Record Summer Lounge",
+          "url": "https://radiorecord.hostingradio.ru/summerlounge96.aacp"
+        },
+        {
+          "name": "Radio Record Dream Pop",
+          "url": "https://radiorecord.hostingradio.ru/dreampop96.aacp"
+        },
+        {
+          "name": "SomaFM Groove Salad",
+          "url": "https://ice5.somafm.com/groovesalad-128-mp3"
+        },
+        {
+          "name": "SomaFM Groove Salad Classic",
+          "url": "https://ice5.somafm.com/gsclassic-128-mp3"
+        },
+        {
+          "name": "SomaFM Lush",
+          "url": "https://ice5.somafm.com/lush-128-mp3"
+        },
+        {
+          "name": "FluxFM Chillout",
+          "url": "https://streams.fluxfm.de/chillout/mp3-128/streams.fluxfm.de/"
+        },
+        {
+          "name": "Chilltrax",
+          "url": "http://streams.electronicmusicradiogroup.org:9000/;stream.mp3"
+        },
+        {
+          "name": "Radio Record Christmas Chill",
+          "url": "https://radiorecord.hostingradio.ru/christmaschill96.aacp"
+        },
+        {
+          "name": "Hirschmilch Chillout",
+          "url": "http://hirschmilch.de:7501/;stream.mp3"
+        },
+        {
+          "name": "Radio Paradise Mellow",
+          "url": "https://stream-uk1.radioparadise.com/mellow-128"
+        }
+      ],
+      "id": "chillout"
+    },
+    {
+      "name": "Lo-Fi / Downtempo",
+      "stations": [
+        {
+          "name": "SomaFM Beat Blender",
+          "url": "https://ice5.somafm.com/beatblender-128-mp3"
+        },
+        {
+          "name": "Radio Record Lo-Fi",
+          "url": "https://radiorecord.hostingradio.ru/lofi96.aacp"
+        }
+      ],
+      "id": "lofi"
+    }
+  ]
+}
