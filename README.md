@@ -68,7 +68,9 @@ Supported signed code types:
 The extension does not collect personal data by default. (Adjust this section if you add analytics.)
 
 ## Support
+- Telegram: <https://t.me/levshin_ilya>
 - Email: <ilyalvshn@gmail.com>
 - Gumroad: <https://lvshn.gumroad.com/>
 - Boosty: <https://boosty.to/levshin_ilya>
-- Telegram: <https://t.me/levshin_ilya>
+- Youtube: <https://www.youtube.com/@levshin_ilya
+>
