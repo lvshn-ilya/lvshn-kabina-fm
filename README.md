@@ -72,5 +72,4 @@ The extension does not collect personal data by default. (Adjust this section if
 - Email: <ilyalvshn@gmail.com>
 - Gumroad: <https://lvshn.gumroad.com/>
 - Boosty: <https://boosty.to/levshin_ilya>
-- Youtube: <https://www.youtube.com/@levshin_ilya
->
+- Youtube: <https://www.youtube.com/@levshin_ilya>
