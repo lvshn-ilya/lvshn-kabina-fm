@@ -1,0 +1,34 @@
+{
+  "playlists": [
+    {
+      "id": "indie",
+      "name": "Indie / Alternative / Freeform",
+      "stations": [
+        {
+          "name": "KEXP",
+          "url": "https://kexp.streamguys1.com/kexp128.aac"
+        },
+        {
+          "name": "KUTX",
+          "url": "https://streams.kut.org/4428_192.mp3?aw_0_1st.playerid=kutx-free"
+        },
+        {
+          "name": "WFMU",
+          "url": "http://stream0.wfmu.org/freeform-128k"
+        },
+        {
+          "name": "KXLU",
+          "url": "https://ednixon.com:8120/stream"
+        },
+        {
+          "name": "KALX",
+          "url": "http://stream.kalx.berkeley.edu:8000/kalx-128.mp3"
+        },
+        {
+          "name": "ByteFM",
+          "url": "https://bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3"
+        }
+      ]
+    }
+  ]
+}
