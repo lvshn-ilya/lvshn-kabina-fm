@@ -2,3 +2,16 @@ tools/stations_private.pem
 codes/
 dist/
 node_modules/
+cert/
+codes/
+payloads/
+tools/
+scripts/
+src/
+*.p12
+*.pem
+*.key
+*.jwk
+*.sig
+.rnd
+wrangler.toml
